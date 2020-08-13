@@ -1,0 +1,24 @@
+FONTLOG for Railroad Gothic CC
+==========================
+
+This file includes information about the Railroad Gothic CC typeface by indestructible type* for the Cowboy Collective.
+
+
+About
+-----
+
+Railroad Gothic is a big, bold, and often ugly condensed sans serif font offered by American Type Founders by as early as 1900. Although refined somewhat with later offerings, Railroad Gothic in its initial release included many amateurish decisions and inconsistencies.
+
+indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. Railroad Gothic is the fourth installment in this series.
+
+For Engraving CC I noticed the perfect lines drawn by the computer lacked warmth and humanity. Railroad Gothic CC is an exploration of the imperfect. Letters are riddled with inconsistencies, corners are rounded as if cheap ink were bleeding on cheap paper. No attempt has been made to justify or codify the design decisions. It’s ugly, but that’s kind of the point.
+
+
+Changelog
+---------
+=1.0 August 2020=
+Initial release
+
+Contact
+-------
+If you have questions, email me at indestructibletype@gmail.com
