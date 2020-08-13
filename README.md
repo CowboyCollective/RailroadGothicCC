@@ -1,6 +1,6 @@
 Engraving CC
 ========
-![Picture](https://raw.githubusercontent.com/CowboyCollective/RailroadGothicCC/master/sources/references/Title.png)
+![Picture](https://raw.githubusercontent.com/CowboyCollective/RailroadGothicCC/master/sources/References/Title.png)
 Engraving CC is a Engraver's revival designed by indestructible type* for the Cowboy Collective 
 
 Engraving CC is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io) and founding member of the [Cowboy Collective](cowboycollective.cc/).
@@ -14,7 +14,7 @@ indestructible type* is joining the Cowboy Collective by making free and open-so
 For Engraving CC I noticed the perfect lines drawn by the computer lacked warmth and humanity. Railroad Gothic CC is an exploration of the imperfect. Letters are riddled with inconsistencies, corners are rounded as if cheap ink were bleeding on cheap paper. No attempt has been made to justify or codify the design decisions. It’s ugly, but that’s kind of the point.
 
 
-![Characters](https://raw.githubusercontent.com/CowboyCollective/RailroadGothicCC/master/sources/references/Specimin.png)
+![Characters](https://raw.githubusercontent.com/CowboyCollective/RailroadGothicCC/master/sources/References/Specimin.png)
 
 Changelog
 ---------
